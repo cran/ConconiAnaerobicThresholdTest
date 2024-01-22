@@ -1,0 +1,16 @@
+1f2a7fe7e0daee65afd26d8bcefda4c6 *DESCRIPTION
+d554689a0b3e7074640a52726ee3ffe4 *NAMESPACE
+5e10eedf7705bd2bc4a3369ff0a9c91c *R/fitmodel.R
+b1d9fb94e3152371d718d568a326e4ce *build/vignette.rds
+aa9a77ea247702f886509b81e42225fa *inst/doc/usage.R
+bbcd0ebe1992a06df8cc66e92801951a *inst/doc/usage.Rmd
+c6e00be61339b3c8148fa3cfe5654f54 *inst/doc/usage.html
+512b3a726cf41b5811b009e665b5d1ff *inst/extdata/2022-01-10.tcx.gz
+097f32f6a693fb32fb98e05a2075ef6c *inst/extdata/2023-01-16.tcx.gz
+f951ccf8dcd0d969eefc8f72c48c2b47 *inst/extdata/2023-09-15.tcx.gz
+ff92114111c56a1b27d6b2c520d1d2ee *man/fitmodel.Rd
+ce771b1b2a742e8536d112d896f33f63 *man/prepdata.Rd
+c2be7f91f52ba2e63a32f80dd38e888c *vignettes/Screenshot-menu.png
+ed785c01757d494ce4ff49870c1ae620 *vignettes/Screenshot-wideangle.png
+bbcd0ebe1992a06df8cc66e92801951a *vignettes/usage.Rmd
+3852a31520b35506600105025e9a4d7c *vignettes/usage.bib
