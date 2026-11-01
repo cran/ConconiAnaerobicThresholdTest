@@ -1,7 +1,7 @@
 Package: ConconiAnaerobicThresholdTest
 Type: Package
 Title: Conconi Estimate of Anaerobic Threshold from a TCX File
-Version: 1.0.0
+Version: 1.1.0
 Authors@R: person("Levi", "Waldron", email = "lwaldron.research@gmail.com",
     role = c("aut", "cre"))
 Maintainer: Levi Waldron <lwaldron.research@gmail.com>
@@ -16,7 +16,7 @@ Description: Analyzes data from a Conconi et al. (1996) <doi:10.1055/s-2007-9728
     Connect TCX exports but may require additional data preparation for heart
     rate, time, and speed data from other sources.
 License: GPL (>= 3)
-Depends: dplyr, ggplot2
+Depends: R (>= 4.1.0), dplyr, ggplot2
 Imports: trackeR, SiZer, methods
 Encoding: UTF-8
 RoxygenNote: 7.2.3
@@ -24,7 +24,7 @@ Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 URL: https://github.com/waldronlab/ConconiAnaerobicThresholdTest
 NeedsCompilation: no
-Packaged: 2024-01-19 20:25:32 UTC; Levi
+Packaged: 2026-11-01 12:46:42 UTC; Levi
 Author: Levi Waldron [aut, cre]
 Repository: CRAN
-Date/Publication: 2024-01-22 17:22:49 UTC
+Date/Publication: 2026-11-01 13:50:02 UTC
